@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+html {
+    height: 100vh;
+}
+body {
+    background: url('./assets/bg.jpg') no-repeat;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
